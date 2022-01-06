@@ -2,6 +2,6 @@ requests==2.22.0
 amqp==2.2.2
 Babel==2.5.3
 billiard==3.5.0.3
-celery==4.2.1
+celery==5.2.2
 kombu==4.2.0
 vine==1.1.4
